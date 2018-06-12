@@ -111,6 +111,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="hairetu.cpp" />
+    <ClCompile Include="hairetu2.cpp" />
     <ClCompile Include="kansucpp.cpp" />
     <ClCompile Include="Source.cpp" />
   </ItemGroup>
